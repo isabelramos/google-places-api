@@ -1,0 +1,13 @@
+@import "color";
+
+#places-container {
+	background-color: $maroon;
+
+	a {
+		color: $yellow;
+	}
+
+	div {
+		padding: 5px;
+	}
+}

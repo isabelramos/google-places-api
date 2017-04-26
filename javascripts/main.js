@@ -47,8 +47,8 @@ $(document).ready(function() {
 
 	const writeAddressToDom = (address) => {
 		let addressString = `<div>${address}</div>`;
-		$("#address-container").append(addressString)
-	}
+		$("#address-container").append(addressString);
+	};
 
 
 

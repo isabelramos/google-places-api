@@ -1,0 +1,11 @@
+#places-container {
+  background-color: #85144b; }
+  #places-container a {
+    color: #FFDC00; }
+  #places-container div {
+    padding: 5px; }
+
+#address-container {
+  background-color: #39CCCC; }
+  #address-container div {
+    font-family: "Luckiest Guy", cursive; }
